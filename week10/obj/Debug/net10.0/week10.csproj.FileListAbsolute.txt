@@ -1,0 +1,15 @@
+/Users/elina3/RiderProjects/week10/week10/bin/Debug/net10.0/week10
+/Users/elina3/RiderProjects/week10/week10/bin/Debug/net10.0/week10.deps.json
+/Users/elina3/RiderProjects/week10/week10/bin/Debug/net10.0/week10.runtimeconfig.json
+/Users/elina3/RiderProjects/week10/week10/bin/Debug/net10.0/week10.dll
+/Users/elina3/RiderProjects/week10/week10/bin/Debug/net10.0/week10.pdb
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.AssemblyInfoInputs.cache
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.AssemblyInfo.cs
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.csproj.CoreCompileInputs.cache
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.sourcelink.json
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.dll
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/refint/week10.dll
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.pdb
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/week10.genruntimeconfig.cache
+/Users/elina3/RiderProjects/week10/week10/obj/Debug/net10.0/ref/week10.dll
